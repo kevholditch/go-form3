@@ -21,6 +21,54 @@
 			"revisionTime": "2017-10-02T08:57:17Z"
 		},
 		{
+			"checksumSHA1": "qRQoLwORmmKUiiE7HkA95qAZ6bg=",
+			"path": "github.com/ewilde/go-form3/client/accounts",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
+			"checksumSHA1": "NWKx3VaR+L9FNtD3EScReixQfQQ=",
+			"path": "github.com/ewilde/go-form3/client/ace",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
+			"checksumSHA1": "/2QX7VZRvR8zBs1+9VLM6RXsyeM=",
+			"path": "github.com/ewilde/go-form3/client/associations",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
+			"checksumSHA1": "oRTk+FRTXc9tGJDMhV7xvA17vZU=",
+			"path": "github.com/ewilde/go-form3/client/organisations",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
+			"checksumSHA1": "gHprK+K5Hs6uEgNTHgF7QycRzhU=",
+			"path": "github.com/ewilde/go-form3/client/roles",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
+			"checksumSHA1": "s8UZ4YahjV5HIXuCZcQldJ22ZZw=",
+			"path": "github.com/ewilde/go-form3/client/subscriptions",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
+			"checksumSHA1": "Olmk4kyfZCaOZ2NvnfC4H9SjiSI=",
+			"path": "github.com/ewilde/go-form3/client/users",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
+			"checksumSHA1": "TNMY5Lxn9ub6ipwnE7aCImbYS9I=",
+			"path": "github.com/ewilde/go-form3/models",
+			"revision": "b1cad7e5d95a360aa0361d640676d9ff644ba5e0",
+			"revisionTime": "2017-11-15T10:49:02Z"
+		},
+		{
 			"checksumSHA1": "OwxeZNizPZT7YriySSR4haPHcRg=",
 			"path": "github.com/go-openapi/analysis",
 			"revision": "8ed83f2ea9f00f945516462951a288eaa68bf0d6",
@@ -85,6 +133,12 @@
 			"path": "github.com/go-openapi/validate",
 			"revision": "dc8a684882cf70c9a529887104340f44e0e138e5",
 			"revisionTime": "2017-09-21T08:47:45Z"
+		},
+		{
+			"checksumSHA1": "H607iHG7BdhrRlmy4virGggP2Dw=",
+			"path": "github.com/kevholditch/go-form3/client",
+			"revision": "e0e50bd2eddc49de290341980adfe406f9e9457c",
+			"revisionTime": "2017-11-29T11:18:42Z"
 		},
 		{
 			"checksumSHA1": "T8soMJArSZrYnhmdpAnq1bVxQ6Q=",
@@ -183,5 +237,5 @@
 			"revisionTime": "2017-08-12T16:00:11Z"
 		}
 	],
-	"rootPath": "github.com/ewilde/go-form3"
+	"rootPath": "github.com/kevholditch/go-form3"
 }

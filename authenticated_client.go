@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/ewilde/go-form3/client"
+	"github.com/kevholditch/go-form3/client"
 	"github.com/go-openapi/runtime"
 	rc "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
